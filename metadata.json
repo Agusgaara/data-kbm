@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Monitoring Kehadiran Guru & Siswa - MTsN 1 Lombok Barat",
+  "description": "Aplikasi monitoring kehadiran guru masuk kelas, absensi siswa berbasis barcode/QR code, rekapitulasi otomatis, dan TV dashboard real-time MTs Negeri 1 Lombok Barat.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
